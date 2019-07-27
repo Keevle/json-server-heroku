@@ -1,16 +1,14 @@
 {
-  "posts":[
+  "Announcements": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "Title": "Brand New Game",
+      "Body": "{'c2dictionary':true,'data':{'foo0':'rwrwer37455.3258423656','foo1':'rwrwer4938.8844417067','foo2':'rwrwer38212.2868563135'}}",
+      "id": "BNG"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "Title": "king",
+      "Body": "The throne of the king",
+      "id": "king"
     }
   ]
 }
